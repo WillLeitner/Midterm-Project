@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 14f497c75227548e6a32c2789a6e1ea9
+  - enabled: 1
+    path: Assets/Scenes/GateArea.unity
+    guid: 241baa298964b4c9690fdc191b511702
+  - enabled: 1
+    path: Assets/Scenes/TheDeep.unity
+    guid: 9fa51c119cf8f4a56a29ac6e6ba278da
+  - enabled: 1
+    path: Assets/Scenes/Arena.unity
+    guid: edea1cd23d67e431085bc9fccd9ba0a5
+  - enabled: 1
+    path: Assets/Scenes/Coral.unity
+    guid: 77729db7e287a45ca9957c84f8bdf810
+  - enabled: 1
+    path: Assets/Scenes/JellyFish.unity
+    guid: c37abead3053f4a22b79ee9ba36ca830
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: b4736df6ffe0e4935b4b951a33810a30
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 6314a3e14f2bb41859fab6aa9f4ac2f1
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 618ab8195529f4626b82c1af30171f02
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: f10a2d220670c47ce90ab41161fdeb5f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
