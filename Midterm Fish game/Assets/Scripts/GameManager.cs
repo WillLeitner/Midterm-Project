@@ -88,9 +88,8 @@ public class GameManager : MonoBehaviour
     }
     IEnumerator GameOver()
     {
-        yield return new WaitForSeconds(7.0f);
         SceneManager.LoadScene("GameOver");
-        yield return new WaitForSeconds(5.0f);
+        yield return new WaitForSeconds(7.0f);
         Application.Quit();
     }
 
